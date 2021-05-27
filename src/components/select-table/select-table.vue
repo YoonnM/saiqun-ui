@@ -1,5 +1,7 @@
 <template>
-  <div class="select-table-saiqun">111456</div>
+  <div class="select-table-saiqun">
+    <p>111456</p>
+  </div>
 </template>
 
 <script>
@@ -8,5 +10,10 @@
   }
 </script>
 
-<style>
+<style lang="less">
+  .select-table-saiqun {
+    p {
+      color: red
+    }
+  }
 </style>
