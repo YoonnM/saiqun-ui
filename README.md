@@ -1,6 +1,6 @@
 # saiqun-ui
 
-> A Vue.js project
+> 第一次发布组件到npm
 
 ## Build Setup
 
