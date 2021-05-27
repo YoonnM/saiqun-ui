@@ -4,7 +4,7 @@
 
 <script>
   export default {
-    name: 'select-table'
+    name: 'SelectTable'
   }
 </script>
 

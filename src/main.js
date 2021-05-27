@@ -1,8 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
 import saiqunui from './index.js'
-
-Vue.use(saiqunui)
+let {
+  SelectTable
+} = saiqunui;
+Vue.use(SelectTable);
 
 new Vue({
   el: '#app',
