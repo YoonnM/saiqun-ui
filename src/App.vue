@@ -5,16 +5,12 @@
 </template>
 
 <script>
-  import SelectTable from './components/select-table'
   export default {
     name: 'app',
     data() {
       return {
         msg: 'Welcome to Your Vue.js App'
       }
-    },
-    components: {
-      SelectTable
     }
   }
 </script>

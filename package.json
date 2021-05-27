@@ -1,7 +1,7 @@
 {
   "name": "saiqun-ui",
   "description": "saiqun-ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "zenghongyu <1148268078@qq.com>",
   "license": "MIT",
   "main": "./dist/saiqunui.js",
